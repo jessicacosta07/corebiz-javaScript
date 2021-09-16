@@ -2,8 +2,6 @@
 
 ## Go Beyond 3rd
 
-A program that reads the name of the salesperson, their salary and total sales for the month
-
 ## Skills
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
