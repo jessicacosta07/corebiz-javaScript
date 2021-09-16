@@ -10,8 +10,8 @@ function exibir() {
     if (nome.length == 0 || salarioFixo.length == 0 || quantidadeVendas.length == 0) {
         resultado.innerHTML = 'Por favor, preencha os campos!'
     } else if (salarioFixo < 0 || quantidadeVendas < 0) {
-        resultado.innerHTML = 'Verifique os dados informados, informe valores maior que 0!'
+        resultado.innerHTML = 'Verifique os dados informados, informe valores maior ou igual R$ 0.00'
     } else {
-        resultado.innerHTML += `<p>Olá ${nome}, sua comissão é ${comissao} reais e salário mensal de ${salarioMensal} reais</p>`
+        resultado.innerHTML += `<p>Olá ${nome}, sua comissão é R$ ${comissao} reais e salário mensal de R$ ${salarioMensal} reais</p>`
     }
 }
