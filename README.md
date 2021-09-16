@@ -9,7 +9,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Page
-![image](https://user-images.githubusercontent.com/65916297/133664158-9084f025-71a9-4b26-9cdf-881a163c6a6f.png)
+![image](https://user-images.githubusercontent.com/65916297/133664249-3a145d4b-816e-4168-8dc2-fe043f8fac63.png)
 ![image](https://user-images.githubusercontent.com/65916297/133663989-6b5935dc-c1c7-4044-b1cb-bce3c7ff3aa2.png)
 ![image](https://user-images.githubusercontent.com/65916297/133663938-814c83d0-eb75-4257-b615-b60daa024fdf.png)
 
